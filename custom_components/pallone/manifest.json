@@ -1,0 +1,12 @@
+{
+    "domain": "pallone",
+    "name": "PALLONE",
+    "version": "0.1",
+    "documentation": "https://github.com/sunsgs/ha-pallone-sensor",
+    "issue_tracker": "https://github.com/sunsgs/ha-pallone-sensor/issues",
+    "dependencies": [],
+    "codeowners": ["@sunsgs"],
+    "config_flow": true,
+    "requirements": ["arrow"],
+    "iot_class": "cloud_polling"
+  }

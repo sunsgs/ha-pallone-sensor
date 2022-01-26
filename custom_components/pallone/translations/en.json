@@ -1,0 +1,28 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "data": {
+          "name": "Friendly Name",
+          "team_id": "Team id",
+          "api_key": "Your api key"
+        },
+        "description": "You can find your 2 or 3-letter acronym on the ESPN PALLONE page's banner, at the top score strip.",
+        "title": "PALLONE"
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "data": {
+          "name": "Friendly Name",
+          "team_id": "Team id",
+          "api_key": "Your api key"
+        },
+        "description": "You can find your 2 or 3-letter acronym on the ESPN PALLONE page's banner, at the top score strip.",
+        "title": "PALLONE"
+      }
+    }
+  }
+}
