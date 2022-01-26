@@ -28,6 +28,10 @@ This is based on the free stack of api-sports.io apis for football.
 
 ## installation
 
+### HACS
+
+Go to hacs menu in home assistant->integrations->three dots up right->custom repositories. Fill in the repository with this repo url and select category integration
+
 ### manually
 
 Download this repo and copy the content of the pallone/custom_component folder under your_installation/custom_components/pallone/...
