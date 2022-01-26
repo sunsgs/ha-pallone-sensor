@@ -6,6 +6,8 @@ The sensor created will have a default name PALLONE. You can change optionally t
 
 The sensor state will be the date UTC of the match. If no match for the team id provided will be found the state will have a state of "OFF"
 
+PLEASE USE https://github.com/sunsgs/ha-pallone-card to show the widget for the next match
+
 Within the sensor you will found attributes about the match:
 
 | ATTRIBUTE NAME | DESCRIPTION                                                                                       |
