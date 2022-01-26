@@ -97,3 +97,8 @@ once registered grab your api key from the left menu -> account -> my access (to
   | 66 | Aston Villa |
   | 71 | Norwich |
 </details>
+
+
+### example of card
+
+![alt text](https://github.com/sunsgs/ha-pallone-card/blob/main/imgs/ha-pallone-card.png?raw=true)
